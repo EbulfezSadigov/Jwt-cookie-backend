@@ -4,8 +4,7 @@ import AdminPage from "../pages/admin/AdminPage";
 import Dashboard from "../pages/admin/Dashboard";
 import Login from "../pages/login/login";
 import Signup from "../pages/register/register";
-import HomePage from "../pages/site/HomePage";
-
+import HomePage from '../HomePage'
 export const routes = [
     {
         path: '/',
